@@ -13,6 +13,12 @@ body{
     overflow: hidden;
 }
 
+span{
+    color: white;
+    font-size: 13;
+    text-align: right;	
+}
+
 
 #intro{
     min-height: 100vh;
